@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "1 Java",
+        "2 Time Complexity",
+        "3 Arrays - DSA",
+        "4 HashMap - HashSet",
+        "5 Binary Search",
+        "6 Strings",
+        "7 Recursion",
+        "8 Sorting",
+        "9 Backtracking",
+        "10 Linked List",
+        "11 Stack - Queue",
+        "12 Trees - BST",
+        "13 Heap - Priority Queue",
+        "14 Graphs",
+        "15 Greedy",
+        "16 Dynamic Programming",
+        "17 Advanced DSA"
+    ]
+}
