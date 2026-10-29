@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "BasicOfStack",
+            "request": "launch",
+            "mainClass": "BasicOfStack",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortedLists",
+            "request": "launch",
+            "mainClass": "MergeTwoSortedLists",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListCycleII",
+            "request": "launch",
+            "mainClass": "LinkedListCycleII",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListBasics",
+            "request": "launch",
+            "mainClass": "LinkedListBasics",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "StringManipulation",
+            "request": "launch",
+            "mainClass": "StringManipulation",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "ContainerWithMostWater",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeStringProblems",
+            "request": "launch",
+            "mainClass": "PalindromeStringProblems",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "StringBuilder",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "CharacterFrequency",
+            "request": "launch",
+            "mainClass": "CharacterFrequency",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "simgleElementInSortedArray",
+            "request": "launch",
+            "mainClass": "simgleElementInSortedArray",
+            "projectName": "DSAinJAVA_73a24ac5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
